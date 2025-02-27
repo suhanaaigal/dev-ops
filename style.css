@@ -1,0 +1,51 @@
+/* .myclass
+{
+    color: rgb(255, 0, 0); 
+}
+ button
+{
+     background-color: #c23535;
+
+}
+p{
+    text-align: right;
+}
+h1{
+text-decoration:blue wavy underline;
+ font-weight:900 ;
+ font-family: Arial, Helvetica, sans-serif;
+} */
+ /* *{
+    padding: 0;
+    margin: 0;
+    color:white;
+ }
+ #nav{
+    height: 60px;
+    background-color: black;
+  
+ }
+ button{
+    background-color: yellow;
+ }
+ #logo
+ {
+    color: aqua;
+    font-size: 25px;
+ }
+ a{
+    margin-right: 200px;
+    text-decoration: none;
+ } */
+  div{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(184, 57, 57);
+    border: 2px;
+    display:inline-block
+  }
+  #box1
+  {
+    position: relative;
+  }
+  
